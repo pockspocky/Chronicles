@@ -1,0 +1,7 @@
+/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/Triangles.dir
+/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/DanceMooves.dir
+/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/SpacedOut.dir
+/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/MooBuzz.dir
+/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/BerryPicking.dir
+/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chronicles",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BerryPicking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BerryPicking-Debug-36d7b0d4cd3f357b6794.json",
+					"name" : "BerryPicking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DanceMooves::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DanceMooves-Debug-009791d5ce60f42deb26.json",
+					"name" : "DanceMooves",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MooBuzz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MooBuzz-Debug-fe714b52ed0e59933907.json",
+					"name" : "MooBuzz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SpacedOut::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SpacedOut-Debug-2a662cf63b2ca8f89036.json",
+					"name" : "SpacedOut",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Triangles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Triangles-Debug-8a40be36ba7ad0718074.json",
+					"name" : "Triangles",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug",
+		"source" : "/Users/ericzhong/CLionProjects/Chronicles"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
