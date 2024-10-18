@@ -13,3 +13,4 @@ add_executable(MooBuzz MooBuzz.cpp
         MooBuzz.cpp)
 add_executable(BerryPicking BerryPicking.cpp
         BerryPicking.cpp)
+add_executable(LeftOver LeftOver.cpp)

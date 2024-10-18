@@ -222,15 +222,6 @@ Chronicles_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Chronicles_SOURCE_DIR:STATIC=/Users/ericzhong/CLionProjects/Chronicles
 
-//Value Computed by CMake
-untitled1_BINARY_DIR:STATIC=/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug
-
-//Value Computed by CMake
-untitled1_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-untitled1_SOURCE_DIR:STATIC=/Users/ericzhong/CLionProjects/Chronicles
-
 
 ########################
 # INTERNAL cache entries
@@ -245,9 +236,9 @@ CMAKE_CACHEFILE_DIR:INTERNAL=/Users/ericzhong/CLionProjects/Chronicles/cmake-bui
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
-CMAKE_CACHE_MINOR_VERSION:INTERNAL=28
+CMAKE_CACHE_MINOR_VERSION:INTERNAL=29
 //Patch version of cmake used to create the current loaded cache
-CMAKE_CACHE_PATCH_VERSION:INTERNAL=1
+CMAKE_CACHE_PATCH_VERSION:INTERNAL=6
 //Path to CMake executable.
 CMAKE_COMMAND:INTERNAL=/Users/ericzhong/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake
 //Path to cpack program executable.
@@ -336,7 +327,7 @@ CMAKE_RANLIB-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_READELF
 CMAKE_READELF-ADVANCED:INTERNAL=1
 //Path to CMake installation.
-CMAKE_ROOT:INTERNAL=/Users/ericzhong/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28
+CMAKE_ROOT:INTERNAL=/Users/ericzhong/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.29
 //ADVANCED property for variable: CMAKE_SHARED_LINKER_FLAGS
 CMAKE_SHARED_LINKER_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_SHARED_LINKER_FLAGS_DEBUG
