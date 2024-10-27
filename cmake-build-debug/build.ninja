@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_Triangles: phony || .
 
 build CMakeFiles/Triangles.dir/Triangles.cpp.o: CXX_COMPILER__Triangles_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/Triangles.cpp || cmake_object_order_depends_target_Triangles
   DEP_FILE = CMakeFiles/Triangles.dir/Triangles.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/Triangles.dir
   OBJECT_FILE_DIR = CMakeFiles/Triangles.dir
 
@@ -64,7 +64,7 @@ build CMakeFiles/Triangles.dir/Triangles.cpp.o: CXX_COMPILER__Triangles_unscanne
 # Link the executable Triangles
 
 build Triangles: CXX_EXECUTABLE_LINKER__Triangles_Debug CMakeFiles/Triangles.dir/Triangles.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/Triangles.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -82,7 +82,7 @@ build cmake_object_order_depends_target_DanceMooves: phony || .
 
 build CMakeFiles/DanceMooves.dir/DanceMooves.cpp.o: CXX_COMPILER__DanceMooves_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/DanceMooves.cpp || cmake_object_order_depends_target_DanceMooves
   DEP_FILE = CMakeFiles/DanceMooves.dir/DanceMooves.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DanceMooves.dir
   OBJECT_FILE_DIR = CMakeFiles/DanceMooves.dir
 
@@ -95,7 +95,7 @@ build CMakeFiles/DanceMooves.dir/DanceMooves.cpp.o: CXX_COMPILER__DanceMooves_un
 # Link the executable DanceMooves
 
 build DanceMooves: CXX_EXECUTABLE_LINKER__DanceMooves_Debug CMakeFiles/DanceMooves.dir/DanceMooves.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/DanceMooves.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -113,7 +113,7 @@ build cmake_object_order_depends_target_SpacedOut: phony || .
 
 build CMakeFiles/SpacedOut.dir/SpacedOut.cpp.o: CXX_COMPILER__SpacedOut_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/SpacedOut.cpp || cmake_object_order_depends_target_SpacedOut
   DEP_FILE = CMakeFiles/SpacedOut.dir/SpacedOut.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/SpacedOut.dir
   OBJECT_FILE_DIR = CMakeFiles/SpacedOut.dir
 
@@ -126,7 +126,7 @@ build CMakeFiles/SpacedOut.dir/SpacedOut.cpp.o: CXX_COMPILER__SpacedOut_unscanne
 # Link the executable SpacedOut
 
 build SpacedOut: CXX_EXECUTABLE_LINKER__SpacedOut_Debug CMakeFiles/SpacedOut.dir/SpacedOut.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/SpacedOut.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -144,7 +144,7 @@ build cmake_object_order_depends_target_MooBuzz: phony || .
 
 build CMakeFiles/MooBuzz.dir/MooBuzz.cpp.o: CXX_COMPILER__MooBuzz_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/MooBuzz.cpp || cmake_object_order_depends_target_MooBuzz
   DEP_FILE = CMakeFiles/MooBuzz.dir/MooBuzz.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/MooBuzz.dir
   OBJECT_FILE_DIR = CMakeFiles/MooBuzz.dir
 
@@ -157,7 +157,7 @@ build CMakeFiles/MooBuzz.dir/MooBuzz.cpp.o: CXX_COMPILER__MooBuzz_unscanned_Debu
 # Link the executable MooBuzz
 
 build MooBuzz: CXX_EXECUTABLE_LINKER__MooBuzz_Debug CMakeFiles/MooBuzz.dir/MooBuzz.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/MooBuzz.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -175,7 +175,7 @@ build cmake_object_order_depends_target_BerryPicking: phony || .
 
 build CMakeFiles/BerryPicking.dir/BerryPicking.cpp.o: CXX_COMPILER__BerryPicking_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/BerryPicking.cpp || cmake_object_order_depends_target_BerryPicking
   DEP_FILE = CMakeFiles/BerryPicking.dir/BerryPicking.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/BerryPicking.dir
   OBJECT_FILE_DIR = CMakeFiles/BerryPicking.dir
 
@@ -188,7 +188,7 @@ build CMakeFiles/BerryPicking.dir/BerryPicking.cpp.o: CXX_COMPILER__BerryPicking
 # Link the executable BerryPicking
 
 build BerryPicking: CXX_EXECUTABLE_LINKER__BerryPicking_Debug CMakeFiles/BerryPicking.dir/BerryPicking.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/BerryPicking.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -206,7 +206,7 @@ build cmake_object_order_depends_target_LeftOver: phony || .
 
 build CMakeFiles/LeftOver.dir/LeftOver.cpp.o: CXX_COMPILER__LeftOver_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/LeftOver.cpp || cmake_object_order_depends_target_LeftOver
   DEP_FILE = CMakeFiles/LeftOver.dir/LeftOver.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/LeftOver.dir
   OBJECT_FILE_DIR = CMakeFiles/LeftOver.dir
 
@@ -219,7 +219,7 @@ build CMakeFiles/LeftOver.dir/LeftOver.cpp.o: CXX_COMPILER__LeftOver_unscanned_D
 # Link the executable LeftOver
 
 build LeftOver: CXX_EXECUTABLE_LINKER__LeftOver_Debug CMakeFiles/LeftOver.dir/LeftOver.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/LeftOver.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -237,7 +237,7 @@ build cmake_object_order_depends_target_MooCereal: phony || .
 
 build CMakeFiles/MooCereal.dir/MooCereal.cpp.o: CXX_COMPILER__MooCereal_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/MooCereal.cpp || cmake_object_order_depends_target_MooCereal
   DEP_FILE = CMakeFiles/MooCereal.dir/MooCereal.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/MooCereal.dir
   OBJECT_FILE_DIR = CMakeFiles/MooCereal.dir
 
@@ -250,7 +250,7 @@ build CMakeFiles/MooCereal.dir/MooCereal.cpp.o: CXX_COMPILER__MooCereal_unscanne
 # Link the executable MooCereal
 
 build MooCereal: CXX_EXECUTABLE_LINKER__MooCereal_Debug CMakeFiles/MooCereal.dir/MooCereal.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/MooCereal.dir
   POST_BUILD = :
   PRE_LINK = :
