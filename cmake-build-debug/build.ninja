@@ -257,6 +257,37 @@ build MooCereal: CXX_EXECUTABLE_LINKER__MooCereal_Debug CMakeFiles/MooCereal.dir
   TARGET_FILE = MooCereal
   TARGET_PDB = MooCereal.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target TheGreatRevegetation
+
+
+#############################################
+# Order-only phony target for TheGreatRevegetation
+
+build cmake_object_order_depends_target_TheGreatRevegetation: phony || .
+
+build CMakeFiles/TheGreatRevegetation.dir/TheGreatRevegetation.cpp.o: CXX_COMPILER__TheGreatRevegetation_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/TheGreatRevegetation.cpp || cmake_object_order_depends_target_TheGreatRevegetation
+  DEP_FILE = CMakeFiles/TheGreatRevegetation.dir/TheGreatRevegetation.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/TheGreatRevegetation.dir
+  OBJECT_FILE_DIR = CMakeFiles/TheGreatRevegetation.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target TheGreatRevegetation
+
+
+#############################################
+# Link the executable TheGreatRevegetation
+
+build TheGreatRevegetation: CXX_EXECUTABLE_LINKER__TheGreatRevegetation_Debug CMakeFiles/TheGreatRevegetation.dir/TheGreatRevegetation.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/TheGreatRevegetation.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = TheGreatRevegetation
+  TARGET_PDB = TheGreatRevegetation.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -291,7 +322,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug
 
-build all: phony Triangles DanceMooves SpacedOut MooBuzz BerryPicking LeftOver MooCereal
+build all: phony Triangles DanceMooves SpacedOut MooBuzz BerryPicking LeftOver MooCereal TheGreatRevegetation
 
 # =============================================================================
 # Built-in targets
