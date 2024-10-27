@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chronicles",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BerryPicking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BerryPicking-Debug-5cd6d7e6d1b31d6e667c.json",
+					"name" : "BerryPicking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DanceMooves::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DanceMooves-Debug-dabe7aafd6e4315f140c.json",
+					"name" : "DanceMooves",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LeftOver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeftOver-Debug-650e96b21835cf57f92c.json",
+					"name" : "LeftOver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MooBuzz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MooBuzz-Debug-075ae1216af737ef1c39.json",
+					"name" : "MooBuzz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MooCereal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MooCereal-Debug-5eb8ce89a41c880c462e.json",
+					"name" : "MooCereal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SpacedOut::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SpacedOut-Debug-75cb80371705e319e155.json",
+					"name" : "SpacedOut",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TheGreatRevegetation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TheGreatRevegetation-Debug-60777fac3d8865cb2723.json",
+					"name" : "TheGreatRevegetation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Triangles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Triangles-Debug-258515130a667fb51780.json",
+					"name" : "Triangles",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug",
+		"source" : "/Users/ericzhong/CLionProjects/Chronicles"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
