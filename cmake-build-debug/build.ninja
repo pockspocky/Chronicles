@@ -350,6 +350,37 @@ build LemonadeLine: CXX_EXECUTABLE_LINKER__LemonadeLine_Debug CMakeFiles/Lemonad
   TARGET_FILE = LemonadeLine
   TARGET_PDB = LemonadeLine.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target RestStops
+
+
+#############################################
+# Order-only phony target for RestStops
+
+build cmake_object_order_depends_target_RestStops: phony || .
+
+build CMakeFiles/RestStops.dir/RestStops.cpp.o: CXX_COMPILER__RestStops_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/RestStops.cpp || cmake_object_order_depends_target_RestStops
+  DEP_FILE = CMakeFiles/RestStops.dir/RestStops.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/RestStops.dir
+  OBJECT_FILE_DIR = CMakeFiles/RestStops.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target RestStops
+
+
+#############################################
+# Link the executable RestStops
+
+build RestStops: CXX_EXECUTABLE_LINKER__RestStops_Debug CMakeFiles/RestStops.dir/RestStops.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/RestStops.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = RestStops
+  TARGET_PDB = RestStops.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -384,7 +415,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug
 
-build all: phony Triangles DanceMooves SpacedOut MooBuzz BerryPicking LeftOver MooCereal TheGreatRevegetation GrassPlanting LemonadeLine
+build all: phony Triangles DanceMooves SpacedOut MooBuzz BerryPicking LeftOver MooCereal TheGreatRevegetation GrassPlanting LemonadeLine RestStops
 
 # =============================================================================
 # Built-in targets

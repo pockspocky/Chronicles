@@ -8,5 +8,6 @@
 /Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/TheGreatRevegetation.dir
 /Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/GrassPlanting.dir
 /Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/LemonadeLine.dir
+/Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/RestStops.dir
 /Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
