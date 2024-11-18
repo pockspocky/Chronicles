@@ -288,6 +288,68 @@ build TheGreatRevegetation: CXX_EXECUTABLE_LINKER__TheGreatRevegetation_Debug CM
   TARGET_FILE = TheGreatRevegetation
   TARGET_PDB = TheGreatRevegetation.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target GrassPlanting
+
+
+#############################################
+# Order-only phony target for GrassPlanting
+
+build cmake_object_order_depends_target_GrassPlanting: phony || .
+
+build CMakeFiles/GrassPlanting.dir/GrassPlanting.cpp.o: CXX_COMPILER__GrassPlanting_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/GrassPlanting.cpp || cmake_object_order_depends_target_GrassPlanting
+  DEP_FILE = CMakeFiles/GrassPlanting.dir/GrassPlanting.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/GrassPlanting.dir
+  OBJECT_FILE_DIR = CMakeFiles/GrassPlanting.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target GrassPlanting
+
+
+#############################################
+# Link the executable GrassPlanting
+
+build GrassPlanting: CXX_EXECUTABLE_LINKER__GrassPlanting_Debug CMakeFiles/GrassPlanting.dir/GrassPlanting.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/GrassPlanting.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = GrassPlanting
+  TARGET_PDB = GrassPlanting.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LemonadeLine
+
+
+#############################################
+# Order-only phony target for LemonadeLine
+
+build cmake_object_order_depends_target_LemonadeLine: phony || .
+
+build CMakeFiles/LemonadeLine.dir/LemonadeLine.cpp.o: CXX_COMPILER__LemonadeLine_unscanned_Debug /Users/ericzhong/CLionProjects/Chronicles/LemonadeLine.cpp || cmake_object_order_depends_target_LemonadeLine
+  DEP_FILE = CMakeFiles/LemonadeLine.dir/LemonadeLine.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/LemonadeLine.dir
+  OBJECT_FILE_DIR = CMakeFiles/LemonadeLine.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LemonadeLine
+
+
+#############################################
+# Link the executable LemonadeLine
+
+build LemonadeLine: CXX_EXECUTABLE_LINKER__LemonadeLine_Debug CMakeFiles/LemonadeLine.dir/LemonadeLine.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/LemonadeLine.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = LemonadeLine
+  TARGET_PDB = LemonadeLine.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -322,7 +384,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/ericzhong/CLionProjects/Chronicles/cmake-build-debug
 
-build all: phony Triangles DanceMooves SpacedOut MooBuzz BerryPicking LeftOver MooCereal TheGreatRevegetation
+build all: phony Triangles DanceMooves SpacedOut MooBuzz BerryPicking LeftOver MooCereal TheGreatRevegetation GrassPlanting LemonadeLine
 
 # =============================================================================
 # Built-in targets

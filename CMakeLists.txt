@@ -16,3 +16,5 @@ add_executable(BerryPicking BerryPicking.cpp
 add_executable(LeftOver LeftOver.cpp)
 add_executable(MooCereal MooCereal.cpp)
 add_executable(TheGreatRevegetation TheGreatRevegetation.cpp)
+add_executable(GrassPlanting GrassPlanting.cpp)
+add_executable(LemonadeLine LemonadeLine.cpp)
